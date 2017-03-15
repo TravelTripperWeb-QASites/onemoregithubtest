@@ -2,4 +2,8 @@
   "name": {
     "required": true
   }
+  "SDate": {
+  "required": true,
+  "type": "date"
+}
 }
